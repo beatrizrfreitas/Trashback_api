@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos-net\\Fiap.Api.Trash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DED88E-0FB1-44B1-93DC-F6CA6137C729}|..\\Fiap.Api.Trash.Test\\Fiap.Api.Trash.Test.csproj|c:\\projetos-net\\fiap.api.trash.test\\usuariocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\controllers\\notificacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:controllers\\notificacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\controllers\\eletronicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:controllers\\eletronicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\controllers\\descartecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:controllers\\descartecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\services\\inotificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:services\\inotificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\services\\eletronicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:services\\eletronicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DED88E-0FB1-44B1-93DC-F6CA6137C729}|..\\Fiap.Api.Trash.Test\\Fiap.Api.Trash.Test.csproj|c:\\projetos-net\\fiap.api.trash.test\\notificacaocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DED88E-0FB1-44B1-93DC-F6CA6137C729}|..\\Fiap.Api.Trash.Test\\Fiap.Api.Trash.Test.csproj|c:\\projetos-net\\fiap.api.trash.test\\descartecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DED88E-0FB1-44B1-93DC-F6CA6137C729}|..\\Fiap.Api.Trash.Test\\Fiap.Api.Trash.Test.csproj|c:\\projetos-net\\fiap.api.trash.test\\eletronicocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\services\\descarteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:services\\descarteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\services\\ieletronicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:services\\ieletronicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\services\\idescarteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:services\\idescarteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|c:\\projetos-net\\fiap.api.trash\\services\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A74F5DC-EA39-4ABF-993F-3303C7ADE680}|Fiap.Api.Trash.csproj|solutionrelative:services\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:06:21.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "Models\\FuncionarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:47:24.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:51:23.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:01:58.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioControllerTest.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash.Test\\UsuarioControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\Fiap.Api.Trash.Test\\UsuarioControllerTest.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash.Test\\UsuarioControllerTest.cs",
+              "RelativeToolTip": "..\\Fiap.Api.Trash.Test\\UsuarioControllerTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:36:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificacaoController.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Controllers\\NotificacaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificacaoController.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Controllers\\NotificacaoController.cs",
+              "RelativeToolTip": "Controllers\\NotificacaoController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:34:23.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EletronicoController.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Controllers\\EletronicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EletronicoController.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Controllers\\EletronicoController.cs",
+              "RelativeToolTip": "Controllers\\EletronicoController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAcwFgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:33:48.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DescarteController.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Controllers\\DescarteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DescarteController.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Controllers\\DescarteController.cs",
+              "RelativeToolTip": "Controllers\\DescarteController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAcwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:35:30.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INotificacaoService.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\INotificacaoService.cs",
+              "RelativeDocumentMoniker": "Services\\INotificacaoService.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\INotificacaoService.cs",
+              "RelativeToolTip": "Services\\INotificacaoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:06:54.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:49:30.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EletronicoService.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\EletronicoService.cs",
+              "RelativeDocumentMoniker": "Services\\EletronicoService.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\EletronicoService.cs",
+              "RelativeToolTip": "Services\\EletronicoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:21:13.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificacaoControllerTest.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash.Test\\NotificacaoControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\Fiap.Api.Trash.Test\\NotificacaoControllerTest.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash.Test\\NotificacaoControllerTest.cs",
+              "RelativeToolTip": "..\\Fiap.Api.Trash.Test\\NotificacaoControllerTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:31:51.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DescarteControllerTest.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash.Test\\DescarteControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\Fiap.Api.Trash.Test\\DescarteControllerTest.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash.Test\\DescarteControllerTest.cs",
+              "RelativeToolTip": "..\\Fiap.Api.Trash.Test\\DescarteControllerTest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:32:19.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EletronicoControllerTest.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash.Test\\EletronicoControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\Fiap.Api.Trash.Test\\EletronicoControllerTest.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash.Test\\EletronicoControllerTest.cs",
+              "RelativeToolTip": "..\\Fiap.Api.Trash.Test\\EletronicoControllerTest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:32:41.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "Services\\IUsuarioService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:26:41.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:44:17.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwBAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:26:59.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DescarteService.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\DescarteService.cs",
+              "RelativeDocumentMoniker": "Services\\DescarteService.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\DescarteService.cs",
+              "RelativeToolTip": "Services\\DescarteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:34:26.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEletronicoService.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\IEletronicoService.cs",
+              "RelativeDocumentMoniker": "Services\\IEletronicoService.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\IEletronicoService.cs",
+              "RelativeToolTip": "Services\\IEletronicoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:18:30.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDescarteService.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\IDescarteService.cs",
+              "RelativeDocumentMoniker": "Services\\IDescarteService.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\IDescarteService.cs",
+              "RelativeToolTip": "Services\\IDescarteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:32:40.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotificacaoService.cs",
+              "DocumentMoniker": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\NotificacaoService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificacaoService.cs",
+              "ToolTip": "C:\\projetos-net\\Fiap.Api.Trash\\Services\\NotificacaoService.cs",
+              "RelativeToolTip": "Services\\NotificacaoService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:10:29.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
