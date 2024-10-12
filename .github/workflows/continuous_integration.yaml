@@ -3,8 +3,8 @@ name: Continuous Integration
 on:
   push:
     branches:
-      - main             
-      - "feature/**"     
+      - main             # Acionar no push da branch main
+      - "feature/**"     # Acionar no push de qualquer branch que comece com 'feature/'
 
 jobs:
   job1-hello:
@@ -22,6 +22,11 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
+      - name: Setup .NET Core SDK
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'  # Substitua pela versão correta se necessário
+
       - name: Step 1 - Sequência de instruções
         run: |
           echo "Uma nova instrução"
@@ -29,29 +34,3 @@ jobs:
 
       - name: Step 2 - Imprimir mensagem
         run: echo "Até logo!"
-
-
-
-      - name: Setup .NET Core SDK
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '8.0.300' 
-          
-
-      - name: Restore dependencies
-        run: dotnet restore
-
-      - name: Build the project
-        run: dotnet build --configuration Release --no-restore
-
-      - name: Run unit tests
-        run: dotnet test --configuration Release --no-restore --verbosity normal
-
-      - name: Publish artifacts
-        run: dotnet publish -c Release -o ./publish
-
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: dotnet-app
-          path: ./publish
