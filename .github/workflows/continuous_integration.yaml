@@ -1,42 +1,31 @@
 name: Continuous Integration
 
 on:
-    push:
-      branches:
-        - main             # Acionar no push da branch main
-        - "feature/**"     # Acionar no push de qualquer branch que comece com 'feature/'
-  
-    pull_request:
-      branches:
-        - main             # Acionar no pull request para a branch main
-        - "feature/**" 
+  push:
+    branches:
+      - main             # Acionar no push da branch main
+      - "feature/**"     # Acionar no push de qualquer branch que comece com 'feature/'
 
 jobs:
-  tests:
+  job1-hello:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
 
-      - name: Setup .NET Core SDK
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '8.0.x'  # Defina a versão do .NET SDK
+      - name: Imprimir mensagem
+        run: echo "Olá, Mundo"
 
-      - name: Restore dependencies
-        run: dotnet restore
+  job2-goodbye:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
 
-      - name: Build the project
-        run: dotnet build --configuration Release --no-restore
+      - name: Step 1 - Sequência de instruções
+        run: |
+          echo "Uma nova instrução"
+          ls            
 
-      - name: Run unit tests
-        run: dotnet test --no-restore --verbosity normal
-
-      - name: Publish artifacts
-        run: dotnet publish -c Release -o ./publish
-
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: dotnet-app
-          path: ./publish
+      - name: Step 2 - Imprimir mensagem
+        run: echo "Até logo!"
