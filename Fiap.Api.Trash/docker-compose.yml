@@ -1,0 +1,22 @@
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DatabaseConnection=Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=db)(PORT=1521)))(CONNECT_DATA=(SID=orcl)));Persist Security Info=True;User ID=RM550934;Password=261104;Pooling=True;Connection Timeout=60;
+    depends_on:
+      - db
+
+  db:
+    image: oracleinanutshell/oracle-xe-11g
+    environment:
+      - ORACLE_ENABLE_XDB=true
+      - ORACLE_PASSWORD=261104
+    ports:
+      - "1521:1521"
