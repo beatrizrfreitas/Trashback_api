@@ -1,12 +1,15 @@
 name: Continuous Integration
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - "feature/**"
+    push:
+      branches:
+        - main             # Acionar no push da branch main
+        - "feature/**"     # Acionar no push de qualquer branch que comece com 'feature/'
+  
+    pull_request:
+      branches:
+        - main             # Acionar no pull request para a branch main
+        - "feature/**" 
 
 jobs:
   tests:
