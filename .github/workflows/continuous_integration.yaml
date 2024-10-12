@@ -25,9 +25,10 @@ jobs:
       - name: Setup .NET Core SDK
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '8.0.300'  
+          dotnet-version: '8.0.300'  # Certifique-se de que essa é a versão correta
+
       - name: Unit test
-        run: mvn test
+        run: mvn test  # Este comando assume que você está usando Maven para testes
 
       - name: Step 1 - Sequência de instruções
         run: |
